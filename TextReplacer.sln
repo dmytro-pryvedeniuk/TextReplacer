@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextReplacer", "TextReplacer\TextReplacer.csproj", "{3EDD832C-2809-49D8-85AA-087814FD7876}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextReplacer.Tests", "TextReplacer.Tests\TextReplacer.Tests.csproj", "{40C54885-DEB0-4AAC-8A34-142C477B9658}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EDD832C-2809-49D8-85AA-087814FD7876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDD832C-2809-49D8-85AA-087814FD7876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDD832C-2809-49D8-85AA-087814FD7876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDD832C-2809-49D8-85AA-087814FD7876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C54885-DEB0-4AAC-8A34-142C477B9658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C54885-DEB0-4AAC-8A34-142C477B9658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C54885-DEB0-4AAC-8A34-142C477B9658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C54885-DEB0-4AAC-8A34-142C477B9658}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67C22820-9383-42C4-BC73-23664567CD41}
+	EndGlobalSection
+EndGlobal
